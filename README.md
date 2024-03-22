@@ -4,7 +4,7 @@
 - 🌱 No momento estudando JS, HTML e CSS
 
 <div align="center">
-  <a href="https://github.com/viniciusjesus1">
+  <a href="[https://github.com/viniciusjesus1](https://github.com/JesusVinicius)">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusjesus1&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjesus1&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
